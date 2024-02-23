@@ -27,15 +27,11 @@ Contributions are welcome! If you have ideas to enhance the analysis, improve th
 - Open issues to discuss potential changes.
 - Submit pull requests to collaborate on improvements.
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
 ## 📬 Contact
 
 Questions or suggestions? Reach out to me:
 
-- **Your Name**
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Syed Abid Hassan**
+- **Email:** [abidhassanjaffri31@gmail.com](mailto:abidhassanjaffri31@gmail.com)
 
 Let's dive deeper into the world of SQL development! 🛠️💻
