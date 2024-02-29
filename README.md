@@ -10,7 +10,7 @@ Welcome to my InternCareer Internship Work repository! 🚀 As a SQL developer, 
 
 ## Task 1: Spotify Dataset Analysis
 
-- **Analysis Notebook:** Explore [Task1_SpotifyAnalysis/spotify_dataset_analysis.ipynb](Task1_SpotifyAnalysis/spotify_dataset_analysis.ipynb) for insights into the Spotify dataset.
+- **Analysis Notebook:** Explore [Task1/Spotify_Analysis.sql](Task1/Spotify_Analysis.sql) for insights into the Spotify dataset.
 - **Dataset:** Find the raw dataset in [Task1_SpotifyAnalysis/spotify_dataset.csv](Task1_SpotifyAnalysis/spotify_dataset.csv).
 - **Details:** Refer to [Task 1 README](Task1_SpotifyAnalysis/README.md) for a detailed overview.
 
