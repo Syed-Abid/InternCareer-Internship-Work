@@ -15,8 +15,8 @@ Welcome to my InternCareer Internship Work repository! 🚀 As a SQL developer, 
 
 ## Task 2: SQL Schema Design and Queries
 
-- **Schema Design:** Check out [Task2/schema_design.sql](Task2/schema_design.sql) for the schema design.
-- **SQL Queries:** Explore [Task2/queries.sql](Task2/queries.sql) for the SQL queries written for the designed schema.
+- **Schema Design:** Check out [Task2](Task2) for the schema design.
+- **SQL Queries:** Explore [Task2](Task2) for the SQL queries written for the designed schema.
 
 ## 🤝 Contributing
 
